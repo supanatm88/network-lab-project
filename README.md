@@ -15,7 +15,7 @@
 ---
 
 ## 🖼️ ภาพตัวอย่าง
-![Network Topology](./DHCP Server.png)
+![Network Topology](./DHCP-Server.png)
 
 ---
 
