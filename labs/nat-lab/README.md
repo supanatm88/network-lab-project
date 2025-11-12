@@ -45,3 +45,8 @@ Router(config)# ip nat inside source list 1 interface g0/1 overload
 ## 📂 ไฟล์ประกอบ
 - 🧩 NAT_Lab.pkt
 - 🖼️ ภาพโครงสร้าง NAT & ACL
+
+---
+
+## 🔗 กลับไปหน้า Lab รวม
+[⬅️ กลับไปหน้า Lab รวม](https://github.com/supanatm88/network-lab-project)
